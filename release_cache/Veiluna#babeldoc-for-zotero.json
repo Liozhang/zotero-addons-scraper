@@ -1,0 +1,29 @@
+{
+  "last_checked": "2026-10-18T11:22:42.877628+00:00",
+  "checked_releases": [
+    {
+      "tag": "v0.4.0",
+      "published_at": "2026-10-18T09:47:21Z",
+      "xpi_asset_id": 653109867,
+      "xpi_name": "babeldoc-for-zotero-0.4.0.xpi",
+      "xpi_download_url": "https://github.com/Veiluna/babeldoc-for-zotero/releases/download/v0.4.0/babeldoc-for-zotero-0.4.0.xpi",
+      "addon_id": "babeldoc-for-zotero@veiluna.github.io",
+      "addon_name": "BabelDOC for Zotero",
+      "addon_version": "0.4.0",
+      "addon_description": "Translate PDF attachments into Simplified Chinese while preserving layout.",
+      "min_zotero_version": "6.999",
+      "max_zotero_version": "10.*",
+      "update_url": "https://github.com/Veiluna/babeldoc-for-zotero/releases/download/release/updates.json",
+      "parse_success": true
+    },
+    {
+      "tag": "release",
+      "published_at": "2026-10-18T09:47:26Z",
+      "xpi_asset_id": 0,
+      "xpi_name": "",
+      "xpi_download_url": "",
+      "parse_success": false,
+      "parse_error": "No XPI found or parse failed"
+    }
+  ]
+}
